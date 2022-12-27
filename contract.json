@@ -2,6 +2,25 @@
     "name": "Bootcamp",
     "methods": [
         {
+            "name": "set_name",
+            "args": [
+                {
+                    "type": "string",
+                    "name": "name"
+                }
+            ],
+            "returns": {
+                "type": "void"
+            }
+        },
+        {
+            "name": "get_name",
+            "args": [],
+            "returns": {
+                "type": "string"
+            }
+        },
+        {
             "name": "hello_name",
             "args": [
                 {
@@ -29,6 +48,18 @@
         },
         {
             "name": "cond_expression",
+            "args": [
+                {
+                    "type": "string",
+                    "name": "option"
+                }
+            ],
+            "returns": {
+                "type": "string"
+            }
+        },
+        {
+            "name": "seq_expression",
             "args": [
                 {
                     "type": "string",
