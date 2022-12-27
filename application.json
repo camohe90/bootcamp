@@ -1,0 +1,61 @@
+{
+    "hints": {},
+    "source": {
+        "approval": "I3ByYWdtYSB2ZXJzaW9uIDgKaW50Y2Jsb2NrIDAgMQpieXRlY2Jsb2NrIDB4MTUxZjdjNzUKdHhuIE51bUFwcEFyZ3MKaW50Y18wIC8vIDAKPT0KYm56IG1haW5fbDEwCnR4bmEgQXBwbGljYXRpb25BcmdzIDAKcHVzaGJ5dGVzIDB4M2IwODA2N2EgLy8gImhlbGxvX25hbWUoc3RyaW5nKXN0cmluZyIKPT0KYm56IG1haW5fbDkKdHhuYSBBcHBsaWNhdGlvbkFyZ3MgMApwdXNoYnl0ZXMgMHg3NzRlMmM5ZCAvLyAiaGVsbG9fc2VuZGVyKClhZGRyZXNzIgo9PQpibnogbWFpbl9sOAp0eG5hIEFwcGxpY2F0aW9uQXJncyAwCnB1c2hieXRlcyAweDllYWE0NmRjIC8vICJpZl9jb25kaXRpb24oKXN0cmluZyIKPT0KYm56IG1haW5fbDcKdHhuYSBBcHBsaWNhdGlvbkFyZ3MgMApwdXNoYnl0ZXMgMHhjOGMzN2Q5OSAvLyAiY29uZF9leHByZXNzaW9uKHN0cmluZylzdHJpbmciCj09CmJueiBtYWluX2w2CmVycgptYWluX2w2Ogp0eG4gT25Db21wbGV0aW9uCmludGNfMCAvLyBOb09wCj09CnR4biBBcHBsaWNhdGlvbklECmludGNfMCAvLyAwCiE9CiYmCmFzc2VydAp0eG5hIEFwcGxpY2F0aW9uQXJncyAxCmNhbGxzdWIgY29uZGV4cHJlc3Npb25fNApzdG9yZSA3CmJ5dGVjXzAgLy8gMHgxNTFmN2M3NQpsb2FkIDcKY29uY2F0CmxvZwppbnRjXzEgLy8gMQpyZXR1cm4KbWFpbl9sNzoKdHhuIE9uQ29tcGxldGlvbgppbnRjXzAgLy8gTm9PcAo9PQp0eG4gQXBwbGljYXRpb25JRAppbnRjXzAgLy8gMAohPQomJgphc3NlcnQKY2FsbHN1YiBpZmNvbmRpdGlvbl8zCnN0b3JlIDUKYnl0ZWNfMCAvLyAweDE1MWY3Yzc1CmxvYWQgNQpjb25jYXQKbG9nCmludGNfMSAvLyAxCnJldHVybgptYWluX2w4Ogp0eG4gT25Db21wbGV0aW9uCmludGNfMCAvLyBOb09wCj09CnR4biBBcHBsaWNhdGlvbklECmludGNfMCAvLyAwCiE9CiYmCmFzc2VydApjYWxsc3ViIGhlbGxvc2VuZGVyXzIKc3RvcmUgMwpieXRlY18wIC8vIDB4MTUxZjdjNzUKbG9hZCAzCmNvbmNhdApsb2cKaW50Y18xIC8vIDEKcmV0dXJuCm1haW5fbDk6CnR4biBPbkNvbXBsZXRpb24KaW50Y18wIC8vIE5vT3AKPT0KdHhuIEFwcGxpY2F0aW9uSUQKaW50Y18wIC8vIDAKIT0KJiYKYXNzZXJ0CnR4bmEgQXBwbGljYXRpb25BcmdzIDEKY2FsbHN1YiBoZWxsb25hbWVfMQpzdG9yZSAwCmJ5dGVjXzAgLy8gMHgxNTFmN2M3NQpsb2FkIDAKY29uY2F0CmxvZwppbnRjXzEgLy8gMQpyZXR1cm4KbWFpbl9sMTA6CnR4biBPbkNvbXBsZXRpb24KaW50Y18wIC8vIE5vT3AKPT0KYm56IG1haW5fbDEyCmVycgptYWluX2wxMjoKdHhuIEFwcGxpY2F0aW9uSUQKaW50Y18wIC8vIDAKPT0KYXNzZXJ0CmNhbGxzdWIgY3JlYXRlXzAKaW50Y18xIC8vIDEKcmV0dXJuCgovLyBjcmVhdGUKY3JlYXRlXzA6CmludGNfMSAvLyAxCnJldHVybgoKLy8gaGVsbG9fbmFtZQpoZWxsb25hbWVfMToKc3RvcmUgMQpwdXNoYnl0ZXMgMHg0ODY1NmM2YzZmMjAgLy8gIkhlbGxvICIKbG9hZCAxCmV4dHJhY3QgMiAwCmNvbmNhdApzdG9yZSAyCmxvYWQgMgpsZW4KaXRvYgpleHRyYWN0IDYgMApsb2FkIDIKY29uY2F0CnN0b3JlIDIKbG9hZCAyCnJldHN1YgoKLy8gaGVsbG9fc2VuZGVyCmhlbGxvc2VuZGVyXzI6CnR4biBTZW5kZXIKc3RvcmUgNApsb2FkIDQKbGVuCnB1c2hpbnQgMzIgLy8gMzIKPT0KYXNzZXJ0CmxvYWQgNApyZXRzdWIKCi8vIGlmX2NvbmRpdGlvbgppZmNvbmRpdGlvbl8zOgppbnRjXzEgLy8gMQppbnRjXzAgLy8gMAo+CmJueiBpZmNvbmRpdGlvbl8zX2wyCnB1c2hieXRlcyAweDQ2NjE2YzczNjUgLy8gIkZhbHNlIgpzdG9yZSA2CmxvYWQgNgpsZW4KaXRvYgpleHRyYWN0IDYgMApsb2FkIDYKY29uY2F0CnN0b3JlIDYKYiBpZmNvbmRpdGlvbl8zX2wzCmlmY29uZGl0aW9uXzNfbDI6CnB1c2hieXRlcyAweDU0NzI3NTY1IC8vICJUcnVlIgpzdG9yZSA2CmxvYWQgNgpsZW4KaXRvYgpleHRyYWN0IDYgMApsb2FkIDYKY29uY2F0CnN0b3JlIDYKaWZjb25kaXRpb25fM19sMzoKbG9hZCA2CnJldHN1YgoKLy8gY29uZF9leHByZXNzaW9uCmNvbmRleHByZXNzaW9uXzQ6CnN0b3JlIDgKbG9hZCA4CmV4dHJhY3QgMiAwCnB1c2hieXRlcyAweDQxIC8vICJBIgo9PQpibnogY29uZGV4cHJlc3Npb25fNF9sNApsb2FkIDgKZXh0cmFjdCAyIDAKcHVzaGJ5dGVzIDB4NDIgLy8gIkIiCj09CmJueiBjb25kZXhwcmVzc2lvbl80X2wzCmVycgpjb25kZXhwcmVzc2lvbl80X2wzOgpwdXNoYnl0ZXMgMHg0MjIwNzc2MTczMjA3MzY1NmM2NTYzNzQ2NTY0IC8vICJCIHdhcyBzZWxlY3RlZCIKc3RvcmUgOQpsb2FkIDkKbGVuCml0b2IKZXh0cmFjdCA2IDAKbG9hZCA5CmNvbmNhdApzdG9yZSA5CmIgY29uZGV4cHJlc3Npb25fNF9sNQpjb25kZXhwcmVzc2lvbl80X2w0OgpwdXNoYnl0ZXMgMHg0MTIwNzc2MTczMjA3MzY1NmM2NTYzNzQ2NTY0IC8vICJBIHdhcyBzZWxlY3RlZCIKc3RvcmUgOQpsb2FkIDkKbGVuCml0b2IKZXh0cmFjdCA2IDAKbG9hZCA5CmNvbmNhdApzdG9yZSA5CmNvbmRleHByZXNzaW9uXzRfbDU6CmxvYWQgOQpyZXRzdWI=",
+        "clear": "I3ByYWdtYSB2ZXJzaW9uIDgKcHVzaGludCAwIC8vIDAKcmV0dXJu"
+    },
+    "schema": {
+        "local": {
+            "declared": {},
+            "reserved": {}
+        },
+        "global": {
+            "declared": {},
+            "reserved": {}
+        }
+    },
+    "contract": {
+        "name": "Bootcamp",
+        "methods": [
+            {
+                "name": "hello_name",
+                "args": [
+                    {
+                        "type": "string",
+                        "name": "name"
+                    }
+                ],
+                "returns": {
+                    "type": "string"
+                }
+            },
+            {
+                "name": "hello_sender",
+                "args": [],
+                "returns": {
+                    "type": "address"
+                }
+            },
+            {
+                "name": "if_condition",
+                "args": [],
+                "returns": {
+                    "type": "string"
+                }
+            },
+            {
+                "name": "cond_expression",
+                "args": [
+                    {
+                        "type": "string",
+                        "name": "option"
+                    }
+                ],
+                "returns": {
+                    "type": "string"
+                }
+            }
+        ],
+        "networks": {}
+    }
+}

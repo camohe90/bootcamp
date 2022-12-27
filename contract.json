@@ -1,0 +1,44 @@
+{
+    "name": "Bootcamp",
+    "methods": [
+        {
+            "name": "hello_name",
+            "args": [
+                {
+                    "type": "string",
+                    "name": "name"
+                }
+            ],
+            "returns": {
+                "type": "string"
+            }
+        },
+        {
+            "name": "hello_sender",
+            "args": [],
+            "returns": {
+                "type": "address"
+            }
+        },
+        {
+            "name": "if_condition",
+            "args": [],
+            "returns": {
+                "type": "string"
+            }
+        },
+        {
+            "name": "cond_expression",
+            "args": [
+                {
+                    "type": "string",
+                    "name": "option"
+                }
+            ],
+            "returns": {
+                "type": "string"
+            }
+        }
+    ],
+    "networks": {}
+}
